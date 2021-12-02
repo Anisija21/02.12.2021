@@ -1,12 +1,6 @@
-mystr = "programma"
-myit = iter(mystr)
+my_string = "kakitis"
+x = 0
+for i in my_string:
+  x = x + 1
+  print(my_string[0:x])
 
-print(next(myit))
-print(next(myit))
-print(next(myit))
-print(next(myit))
-print(next(myit))
-print(next(myit))
-print(next(myit))
-print(next(myit))
-print(next(myit))
