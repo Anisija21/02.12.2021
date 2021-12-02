@@ -1,4 +1,4 @@
-x = str(input())
-
-print(x.count(' ') + 1)
-
+a = input('')
+b = a.replace("}",'')
+nnn = b.replace("{",'')
+print(nnn)
